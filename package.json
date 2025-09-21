@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "better-sqlite3": "^12.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
-    "googleapis": "^160.0.0",
-    "sqlite3": "^5.1.7"
+    "googleapis": "^160.0.0"
   }
 }
